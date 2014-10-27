@@ -22,7 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 
-* Gitub third app in  heroku hosting...
+* Gitub third app ...
 
 
 Please feel free to use a different markup language if you do not plan to run
